@@ -2,9 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Cluster Setup Guide'
+author = 'Vector Institute'
 
 release = '0.1'
 version = '0.1.0'
