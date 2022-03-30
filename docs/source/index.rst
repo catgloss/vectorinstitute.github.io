@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+Vector Institute - Cluster Environment Setup Guide
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
 
-Check out the :doc:`usage` section for further information, including
+For general instructions on working on the cluster, check the :doc:`Working on the Cluster` section for further information. The specific instructions for the :doc:`Autonomous Navigation (AN)` and `Safe Learning in RL (SRL)` workshops, check out their respective links. 
 how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Working on the Cluster 
+   Workshop Instructions
